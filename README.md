@@ -1,6 +1,6 @@
 # UTN-TUPAD-P2
 
-# 💻 Programación 1  
+# 💻 Programación 2 
 **Tecnicatura Universitaria en Programación**  
 📍 *Universidad Tecnológica Nacional*  
 
@@ -13,7 +13,7 @@ Este repositorio va a contener todos los trabajos prácticos de cada unidad corr
 
 📌 **Estructura del repositorio:**  
 - Cada trabajo está organizado en carpetas individuales.  
-- Los archivos de código fuente (`.py`) incluyen comentarios y estructura adecuada.  
+- Los archivos de código fuente incluyen comentarios y estructura adecuada.  
 - Se busca mantener un código limpio, ordenado y bien documentado.  
 
 
